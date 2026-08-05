@@ -2,3 +2,4 @@ google-generativeai
 gTTS
 Pillow
 streamlit
+# Update mesin AI terbaru
